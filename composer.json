@@ -1,0 +1,23 @@
+{
+  "name": "liberusoftware/ecommerce-sales-representative-workspace-filament",
+  "description": "Sales Representative Workspace Filament presentation module skeleton",
+  "type": "liberu-module",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "filament/filament": "^5.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liberu\\Presentation\\Capabilityed1bb014e52f\\": "src/"
+    }
+  },
+  "scripts": {
+    "check": "@php -l src/CapabilityPlugin.php"
+  },
+  "extra": {
+    "liberu": {
+      "name": "ecommerce-sales-representative-workspace-filament"
+    }
+  }
+}

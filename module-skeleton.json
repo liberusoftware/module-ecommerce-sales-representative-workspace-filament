@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-sales-representative-workspace-filament",
+  "capabilityKey": "planned:ecommerce:sales-representative-workspace",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-sales-representative-workspace-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/sales-representative-workspace.md",
+  "presentationPlan": "projects/ecommerce/filament/sales-representative-workspace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
